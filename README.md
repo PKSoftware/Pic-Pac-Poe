@@ -1,8 +1,6 @@
 # Pic-Pac-Poe
-<h1>Developed by: PKSoftware</h1><img src=https://avatars3.githubusercontent.com/u/39944847?s=400&u=fb694c5d3519cbff457862f621a510494c02345c&v=4">
-  <br>
-  <hr>
-  <a href="https://github.com/PKSoftware"> Click to know more</a>
+<h1>Developer: PKSoftware</h1><img src="https://avatars3.githubusercontent.com/u/39944847"> <hr>
+  <a href="https://github.com/PKSoftware"> Click here to know more</a>
   <br>
 <p>
 This App helps to give confident and relax your brain. The main goal of this apps to give knowledge and make your brain think </p>

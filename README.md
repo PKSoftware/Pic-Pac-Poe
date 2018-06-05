@@ -1,5 +1,6 @@
 # Pic-Pac-Poe
-<h1>Developer: PKSoftware</h1><img src="https://avatars3.githubusercontent.com/u/39944847"> <hr>
+<h1>Developer: PKSoftware</h1><img src="https://avatars3.githubusercontent.com/u/39944847"> 
+<hr>
   <a href="https://github.com/PKSoftware"> Click here to know more</a>
   <br>
 <p>
